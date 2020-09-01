@@ -1,0 +1,168 @@
+/**
+    Assignment 8.2 - Styles
+ */
+body {
+    margin: 0;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+header {
+    background-color: #3c275a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #4F3674;
+    border-bottom: 15px solid #D6A800;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: #D6A800;
+    color: #4F3674;
+}
+
+#container {
+    padding: 10px;
+
+    /* Assignment 9.2 styles */
+    margin: 2% 5% 100px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 50%;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 2em;
+    color: #4F3674;
+    font-weight: 400;
+}
+
+.card-content {
+    padding: 2px 16px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: #4F3674;
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+
+    /* Assignment 9.2 styles */
+    position: fixed;
+    left: 0;
+}
+
+footer p {
+    color: #FFF;
+    font-weight: 400;
+    float: right;
+    padding-right: 10px;
+    font-style: italic;
+    font-size: .75em;
+}
+
+footer a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/**
+    Assignment 9.2 - Styles
+ */
+.form {
+    display: inline-grid;
+    grid-template-columns: auto;
+}
+
+.form-field {
+    padding: 20px;
+}
+
+.btn {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 15px 32px;
+    color: #000;
+}
+
+.input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn-primary {
+    background-color: #4F3674;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #D6A800;
+    color: #4F3674;
+}
+
+.full-width {
+    width: 100%;
+}
+
+#books {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#books th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4F3674;
+    color: #fff;
+}
+
+#books td, #books th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#books tr:hover {
+    background-color: #D6A800;
+    color: #4F3674;
+    cursor: pointer;
+}
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7de9bc35-823c-4be3-aeb1-1df555196a2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week-7/images/anastasia-zhenina-E4XARZNDjzI-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-7/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-7/images/ramon-salinero-vEE00Hx5d0Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-9/bawp_EX6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-9/bawp_EX6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-6/bawp_EX3.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-6/bawp_EX3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-6/bawp_EX3.html" beforeDir="false" afterPath="$PROJECT_DIR$/week-6/bawp_EX3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gusVXZO9xOBXY6HU9jaPZoXEAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week-9" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rkrasso\github\buwebdev\web-200\week-9" />
+      <recent name="C:\Users\rkrasso\github\buwebdev\web-200\week-7\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.bawp_EX6.html">
+    <configuration name="bawp_EX3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-200/week-6/bawp_EX3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bawp_EX4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-200/week-7/bawp_EX4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bawp_EX5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-200/week-8/bawp_EX5.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bawp_EX6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-200/week-9/bawp_EX6.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.bawp_EX6.html" />
+        <item itemvalue="JavaScript Debug.bawp_EX5.html" />
+        <item itemvalue="JavaScript Debug.bawp_EX4.html" />
+        <item itemvalue="JavaScript Debug.bawp_EX3.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de9bc35-823c-4be3-aeb1-1df555196a2e" name="Default Changelist" comment="" />
+      <created>1598975836128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598975836128</updated>
+      <workItem from="1598975837246" duration="17338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

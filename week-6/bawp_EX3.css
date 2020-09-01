@@ -1,8 +1,8 @@
-#pageTitle {
+#page-title {
     text-align: center;
 }
 
-#movieList {
+#movie-list {
     width: 45%;
     float: left;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
@@ -12,7 +12,7 @@
     padding: 10px;
 }
 
-#thingsLearned {
+#things-learned {
     width: 45%;
     float: right;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
@@ -31,7 +31,7 @@
     width: 100%;
 }
 
-#backToTop {
+#back-to-top {
     float: right;
     margin-bottom: 20px;
 }
@@ -40,11 +40,11 @@ h3 {
     font-weight: 500;
 }
 
-#favoriteUrl, #backToTop {
+#favorite-url, #back-to-top {
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     text-decoration: none;
 }
 
-#favoriteUrl:hover, #backToTop:hover {
+#favorite-url:hover, #back-to-top:hover {
     text-decoration: underline;
 }
