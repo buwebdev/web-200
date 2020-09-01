@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7de9bc35-823c-4be3-aeb1-1df555196a2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week-7/images/anastasia-zhenina-E4XARZNDjzI-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-7/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-7/images/ramon-salinero-vEE00Hx5d0Q-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-9/bawp_EX6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-9/bawp_EX6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-6/bawp_EX3.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-6/bawp_EX3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-6/bawp_EX3.html" beforeDir="false" afterPath="$PROJECT_DIR$/week-6/bawp_EX3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598975836128</updated>
-      <workItem from="1598975837246" duration="17338000" />
+      <workItem from="1598975837246" duration="18588000" />
     </task>
     <servers />
   </component>
