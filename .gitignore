@@ -9,6 +9,9 @@
 !.vscode/extensions.json
 *.code-workspace
 
+### WebStorm ###
+.idea/*
+
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
