@@ -1,0 +1,60 @@
+html, body {
+    font-size: 16px;
+}
+
+p {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+h1, h2 {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+h1 { 
+    font-weight: 700;
+    text-transform: uppercase;
+    word-spacing: .5em;
+    margin: 0;
+    text-align: center;
+    font-size: 3.052em;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    margin: 0;
+    text-align: left;
+    padding-top: 15px;
+}
+
+address {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    text-align: center;
+}
+
+address a {
+    font-size: 1.25em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #4F3674;
+}
+
+address a:hover {
+    text-decoration: underline;
+    background-color: #D6A800;
+}
+
+address a:visited {
+    color: #3c275a;
+}
+
+.sentence {
+    font-style: italic;
+}
+
+.intro {
+    text-indent: 2em;
+}
