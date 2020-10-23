@@ -8,9 +8,9 @@ Web Development [Degree](http://www.bellevue.edu/degrees/bachelor/web-developmen
 ## Course Description
 
 This course examines the fundamentals specific to web development. Topics will include web standards, accessibility/usability, and the coding languages which serve as the foundation for web development: HTML and CSS. 
-Students work with these languages at a basic level, learning the essential structures, coding conventions, and best practices associated with the effective use of HTML and CSS in modern web-development environments. Prerequisite: Basic computer literacy
+Students work with these languages at a basic level, learning the essential structures, coding conventions, and best practices associated with the effective use of HTML and CSS in modern web-development environments. 
 
-Prerequisite: None
+Prerequisite: Basic computer literacy
 
 ## Repository Overview
 
